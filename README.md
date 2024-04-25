@@ -1,5 +1,4 @@
 -Hi, I’m @aybilow
--I’m currently learning Ruby on Rails
 
 <!---
 aybilow/aybilow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
